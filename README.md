@@ -1,38 +1,19 @@
 
+---
 
-\---
-
-
-
-\## 🔐 Password Checker README
-
-
+## 🔐 Password Checker README
 
 ```md
-
-\# 🔐 Password Strength Checker
-
-
+# 🔐 Password Strength Checker
 
 A Python program that checks password strength based on security rules.
 
+## 🚀 Features
+- Checks length
+- Uppercase, lowercase
+- Digits and special characters
+- Classifies as Weak / Medium / Strong
 
-
-\## 🚀 Features
-
-\- Checks length
-
-\- Uppercase, lowercase
-
-\- Digits and special characters
-
-\- Classifies as Weak / Medium / Strong
-
-
-
-\## ▶️ Run
-
+## ▶️ Run
 ```bash
-
 python main.py
-
